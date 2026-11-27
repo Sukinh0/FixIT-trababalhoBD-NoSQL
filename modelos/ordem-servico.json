@@ -1,0 +1,12 @@
+{
+  "id": "OS-001",
+  "cliente_id": "CLI-001",
+  "equipamento": { "id": "EQ-001", "tipo": "Notebook", "ram_gb": 16 },
+  "status": "Em manutenção",
+  "defeito_id": "D01",
+  "tecnico_id": "TEC-003",
+  "abertura": "2026-11-20",
+  "prazo": "2026-11-27",
+  "versao": 1,
+  "pecas": [{ "id": "P01", "quantidade": 1, "custo_unitario_centavos": 8500 }]
+}
